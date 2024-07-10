@@ -12,7 +12,7 @@
     overflow: hidden;
 }
 
-.left-colunm{
+.left-column{
     flex-basis: 50%;
     height: 700px;
     background-color: #846e74;
@@ -20,7 +20,7 @@
     
 }
 
-.right-colunm{
+.right-column{
     flex-basis: 50%;
     height: 700px;
     background-color: #ffaaca;
